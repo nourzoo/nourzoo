@@ -3,11 +3,11 @@
 
 ### **👩‍💻 About Me**
  <a href=""><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
-  <a href="https://github.com/dltmddus02"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+  <a href="https://github.com/nourzoo"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
   <a href="https://nourzoo.tistory.com/"><img alt="tistory" src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltmddus02&count_bg=%23000000&title_bg=%239796F0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnourzoo&count_bg=%23000000&title_bg=%239796F0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmddus02&custom_title=SeungYeon's%20github&bg_color=60,9796f0,fbc7d4&title_color=f7f5f5&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourzoo&custom_title=SeungYeon's%20github&bg_color=60,9796f0,fbc7d4&title_color=f7f5f5&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
