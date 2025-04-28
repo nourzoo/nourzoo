@@ -7,7 +7,7 @@
   <a href="https://nourzoo.tistory.com/"><img alt="tistory" src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnourzoo&count_bg=%23000000&title_bg=%239796F0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourzoo?exclude_repo=CSE4100,tetris-project&custom_title=SeungYeon's%20github&bg_color=60,9796f0,fbc7d4&title_color=f7f5f5&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourzoo&exclude_repo=CSE4100,tetris-project&custom_title=SeungYeon's%20github&bg_color=60,9796f0,fbc7d4&title_color=f7f5f5&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
