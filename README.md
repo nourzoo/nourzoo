@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=🍀LEE%20SEUNG%20YEON🍀&fontSize=65)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=🍀LEE%20SEUNG%20YEON🍀&fontSize=65) -->
 
 
 ### **👩‍💻 About Me**
@@ -12,9 +12,10 @@
 
 ### **🔧 Stack**
 
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### **⚙ Tools**
 
@@ -27,4 +28,4 @@
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![]()
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=150&section=footer&fontSize=50) 
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=150&section=footer&fontSize=50) -->
