@@ -1,10 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=🍀LEE%20SEUNG%20YEON🍀&fontSize=65) -->
 
-
-## **👩‍💻 About Me**
-<a href="forarium20@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
-<a href="https://nourzoo.tistory.com/"><img alt="Tistory" src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourzoo&exclude_repo=CSE4100,lunch-buddy-finds,tetris-project&custom_title=SeungYeon's%20github&bg_color=60,9796f0,fbc7d4&title_color=f7f5f5&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **🔧 Stack**
